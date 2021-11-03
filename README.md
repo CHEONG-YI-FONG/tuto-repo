@@ -1,3 +1,3 @@
-# Header
+# "#" stands for Header
 
 Some description
